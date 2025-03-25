@@ -1,0 +1,6 @@
+SDLC
+Linux
+Scripting
+git
+aws
+ec2-user
