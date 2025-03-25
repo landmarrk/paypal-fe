@@ -1,2 +1,2 @@
 Application testing in progress
-Test before depolyment
+Test before depolyment good pratice 
