@@ -1,6 +1,6 @@
-SDLC
-Linux
-Scripting
-git
-aws
-ec2-user
+SDLC is good using devops and agile framework
+Linux is open source
+Scripting is automation
+gitis a DVCS
+aws is a cloud computing
+ec2-user is virtual server in the cloud
